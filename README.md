@@ -252,6 +252,11 @@ src/main/
      - Username: admin
      - Password: admin123
 
+5. **How to Stop Run**
+   ```bash
+   Ctrl + C
+   ```
+
 ## Local Tomcat Setup
 
 For development, it's recommended to use a local Tomcat setup instead of the global Homebrew installation. This allows for isolated testing and development.
